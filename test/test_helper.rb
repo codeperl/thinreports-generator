@@ -8,7 +8,6 @@ require 'mocha/mini_test'
 
 require 'digest/sha1'
 require 'pathname'
-require 'chunky_png'
 require 'thinreports'
 
 require 'schema_helper'
